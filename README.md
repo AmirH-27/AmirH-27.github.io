@@ -11,7 +11,7 @@
 <p float="left">
   <img allign = "left" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirH-27&theme=zenburn" />  
   <d style="padding-left:1em;" > </d>
-  <img allign = "center" width="49%" src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" />  
+  <img allign = "center" width="48%" src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" />  
 </p>
 
 <h2 align="center">Languages</h3>
